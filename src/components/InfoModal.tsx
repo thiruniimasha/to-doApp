@@ -60,7 +60,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#070707',
         justifyContent: 'center',
         alignItems: 'center',
-        opacity: 0.8,
     },
 
     modalBox: {
