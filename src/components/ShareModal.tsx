@@ -71,7 +71,6 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
     alignItems: 'center',
     backgroundColor: '#070707',
-    opacity: 0.8,
   },
 
   modalBox: {
